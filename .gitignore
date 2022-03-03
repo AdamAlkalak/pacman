@@ -4,6 +4,9 @@
 *.vcxproj
 *.ipch
 *.zip
+*.steps
+*.result
+*.txt
 v16/
 Debug/
 .vs/
