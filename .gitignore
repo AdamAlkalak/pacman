@@ -1,0 +1,10 @@
+*.sln
+*.user
+*.filters
+*.vcxproj
+*.ipch
+*.zip
+v16/
+Debug/
+.vs/
+x64/
