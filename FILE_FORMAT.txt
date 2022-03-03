@@ -1,0 +1,34 @@
+Steps file format:
+The first line of the steps file is going to consist of one char, which is going to represent the number of ghost in the screen.
+Every line starting from the second one is going to represent one "point in time"(the time it takes pacman to move one step) or one step.
+Each step(line), start with the direction of pacman at that step, followed by a space. Then it's going to have the direction of every ghost by order, 
+with a space between each ghost. And then the last part of the step is reserved for the fruit. If the fruit does not exist it will say '*' and end with a space.
+Otherwise, if the fruit exists, we eill get it's direction, followed by a space. And then the x and y coordinates in the following format "X,Y"
+(X and Y can be either 1 or 2 digits) followed by another space.
+The last char of the format will be the value of the fruit(again, if it exists at this point of time), followed by a space.
+Note:if a '*' appears where a ghost direction is supposed to be, it means the ghost keeps it's current direction.
+
+Example(purely to expain the format, might not actually work for any map):
+2
+S S S *
+D X W *
+D X W S 1,3 7
+D X W D 2,3 7
+D X W D 3,3 7
+
+
+
+Result file format:
+The first char of every line is either 'D' or 'F' followed by a space, and then N characters representing digits fo a number(N >= 1).
+'D' stands for Death and this means this line represents a point in time where pacman died, the number on this line specifies the point in time.
+'F' stands for Finish and means this line represents a point in time where the screen was finished, the number on this line specifies the point in time.
+'F' will only appear at the last line of the file, if at all.
+
+Example:
+D 15
+D 63
+F 122
+
+This example represents a game where the pacman died twice before finishing the game.
+The first time is 15 'steps' after the game began, and the second time is 63 'steps' after the game began.
+The screen was finished after 122 'steps'.

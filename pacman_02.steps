@@ -1,0 +1,1082 @@
+2
+S * * * 
+S W W * 
+S * * * 
+S X W * 
+S * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d A D * 
+d * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+x * * * 
+x X W * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+x * * * 
+x D X * 
+x * * * 
+x W A * 
+x * * * 
+d W A * 
+d * * * 
+d W A * 
+x * * * 
+x X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+x * * * 
+x D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+x * * * 
+x A D * 
+x * * * 
+a A D * 
+a * * * 
+a A D * 
+a * * * 
+x A D * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+w W A * 
+w * * * 
+w W A * 
+w * * * 
+w W A * 
+w * * * 
+w A D * 
+w * * * 
+w A D * 
+w * * * 
+w A D * 
+w * * * 
+w D X * 
+w * * * 
+w D X * 
+w * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x A D * 
+x * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+w * * * 
+d D X * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d A D * 
+d * * * 
+a A D * 
+a * * * 
+a A D * 
+a * * * 
+a X W * 
+a * * * 
+x X W * 
+x * * * 
+x X W * 
+x * * * 
+x W A * 
+d * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x A D * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+w * * * 
+w X W * 
+w * * * 
+w X W * 
+w * * * 
+w X W * 
+w * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * S 1,9 6 
+x W A S 1,9 6 
+x * * S 1,9 6 
+x W A S 1,9 6 
+x * * D 1,9 6 
+x W A D 1,9 6 
+x * * D 1,9 6 
+x W A D 1,9 6 
+x * * D 1,10 6 
+w W A D 1,10 6 
+w * * D 1,10 6 
+w D X D 1,10 6 
+w * * W 1,11 6 
+w D X W 1,11 6 
+w * * W 1,11 6 
+w D X W 1,11 6 
+w * * W 1,11 6 
+a D X W 1,11 6 
+a * * W 1,11 6 
+a D X W 1,11 6 
+a * * W 1,11 6 
+a D X W 1,11 6 
+x * * W 1,11 6 
+a W A W 1,11 6 
+a * * D 1,11 6 
+a W A D 1,11 6 
+a * * D 1,11 6 
+a W A D 1,11 6 
+a * * W 1,11 6 
+a D X W 1,11 6 
+w * * W 1,11 6 
+w D X W 1,11 6 
+w * * W 1,11 6 
+w D X W 1,11 6 
+w * * W 1,11 6 
+w X W W 1,11 6 
+w * * A 1,11 6 
+w X W A 1,11 6 
+w * * A 1,11 6 
+w X W A 1,11 6 
+a * * D 1,10 6 
+a W A D 1,10 6 
+a * * D 1,10 6 
+a W A D 1,10 6 
+a * * D 1,11 6 
+a W A D 1,11 6 
+a * * D 1,11 6 
+a A D D 1,11 6 
+a * * X 1,11 6 
+a A D X 1,11 6 
+a * * X 1,11 6 
+a A D X 1,11 6 
+a * * X 2,11 6 
+a A D X 2,11 6 
+a * * X 2,11 6 
+x D X X 2,11 6 
+x * * W 3,11 6 
+x D X W 3,11 6 
+x * * W 3,11 6 
+d D X W 3,11 6 
+d * * D 2,11 6 
+d W A D 2,11 6 
+d * * D 2,11 6 
+x W A D 2,11 6 
+x * * D 2,12 6 
+x W A D 2,12 6 
+x * * D 2,12 6 
+d A D D 2,12 6 
+d * * X 2,13 6 
+d A D X 2,13 6 
+x * * X 2,13 6 
+x A D X 2,13 6 
+x * * A 2,13 6 
+x X W A 2,13 6 
+x * * A 2,13 6 
+a X W A 2,13 6 
+a * * A 2,12 6 
+a X W A 2,12 6 
+a * * A 2,12 6 
+x W A A 2,12 6 
+x * * D 2,11 6 
+a W A D 2,11 6 
+a * * D 2,11 6 
+a W A D 2,11 6 
+a * * X 2,12 6 
+x A D X 2,12 6 
+x * * X 2,12 6 
+x A D X 2,12 6 
+a * * X 2,12 6 
+a A D X 2,12 6 
+a * * X 2,12 6 
+x X W X 2,12 6 
+x * * A 2,12 6 
+x X W A 2,12 6 
+a * * A 2,12 6 
+a X W A 2,12 6 
+a * * W 2,11 6 
+a D X W 2,11 6 
+d * * W 2,11 6 
+d D X W 2,11 6 
+d * * W 1,11 6 
+d D X W 1,11 6 
+d * * W 1,11 6 
+d A D W 1,11 6 
+d * * X 1,11 6 
+d A D X 1,11 6 
+d * * X 1,11 6 
+d A D X 1,11 6 
+d * * X 2,11 6 
+d A D X 2,11 6 
+d * * X 2,11 6 
+d X W X 2,11 6 
+d * * A 3,11 6 
+d X W A 3,11 6 
+x * * A 3,11 6 
+x X W A 3,11 6 
+x * * W 3,10 6 
+x D X W 3,10 6 
+x * * W 3,10 6 
+a D X W 3,10 6 
+a * * W 3,10 6 
+a D X W 3,10 6 
+a * * W 3,10 6 
+a A D W 3,10 6 
+a * * X 3,10 6 
+w A D X 3,10 6 
+d * * X 3,10 6 
+d A D X 3,10 6 
+d * * A 3,10 6 
+d X W A 3,10 6 
+d * * A 3,10 6 
+a X W A 3,10 6 
+a * * A 3,9 6 
+a X W A 3,9 6 
+a * * A 3,9 6 
+a D X A 3,9 6 
+w * * W 3,9 6 
+w D X W 3,9 6 
+w * * W 3,9 6 
+w D X W 3,9 6 
+w * * A 3,9 6 
+d X W A 3,9 6 
+w * * A 3,9 6 
+w X W A 3,9 6 
+w * * A 3,9 6 
+w X W A 3,9 6 
+w * * A 3,9 6 
+a X W A 3,9 6 
+a * * A 3,9 6 
+a X W A 3,9 6 
+a * * A 3,9 6 
+a X W A 3,9 6 
+x * * W 3,9 6 
+x D X W 3,9 6 
+x * * W 3,9 6 
+x D X W 3,9 6 
+x * * W 3,9 6 
+w D X W 3,9 6 
+w * * W 3,9 6 
+w D X W 3,9 6 
+w * * W 3,9 6 
+a D X W 3,9 6 
+a * * W 3,9 6 
+a D X W 3,9 6 
+a * * D 3,9 6 
+a W A D 3,9 6 
+w * * D 3,9 6 
+a W A D 3,9 6 
+a * * D 3,10 6 
+a W A D 3,10 6 
+a * * D 3,10 6 
+a W A D 3,10 6 
+a * * W 3,11 6 
+a D X W 3,11 6 
+w * * W 3,11 6 
+a D X W 3,11 6 
+a * * W 2,11 6 
+a D X W 2,11 6 
+a * * W 2,11 6 
+a X W W 2,11 6 
+a * * A 1,11 6 
+x X W A 1,11 6 
+x * * A 1,11 6 
+x X W A 1,11 6 
+x * * D 1,10 6 
+a W A D 1,10 6 
+a * * D 1,10 6 
+a W A D 1,10 6 
+a * * D 1,11 6 
+a W A D 1,11 6 
+x * * D 1,11 6 
+a A D D 1,11 6 
+a * * X 1,11 6 
+a A D X 1,11 6 
+a * * X 1,11 6 
+a A D X 1,11 6 
+a * * A 2,11 6 
+x X W A 2,11 6 
+x * * A 2,11 6 
+x X W A 2,11 6 
+x * * A 2,11 6 
+x X W A 2,11 6 
+x * * A 2,11 6 
+a W A A 2,11 6 
+a * * D 2,11 6 
+a W A D 2,11 6 
+a * * D 2,11 6 
+x W A D 2,11 6 
+x * * X 2,12 6 
+x A D X 2,12 6 
+x * * X 2,12 6 
+x A D X 2,12 6 
+a * * X 2,12 6 
+a A D X 2,12 6 
+w * * X 2,12 6 
+w A D X 2,12 6 
+w * * X 2,12 6 
+w A D X 2,12 6 
+w * * X 2,12 6 
+w A D X 2,12 6 
+w * * X 2,12 6 
+x A D X 2,12 6 
+d * * X 2,12 6 
+d W A X 2,12 6 
+d * * D 2,12 6 
+d W A D 2,12 6 
+d * * D 2,12 6 
+d W A D 2,12 6 
+a * * X 2,13 6 
+a A D X 2,13 6 
+a * * X 2,13 6 
+w A D X 2,13 6 
+a * * X 2,13 6 
+a A D X 2,13 6 
+a * * X 2,13 6 
+a X W X 2,13 6 
+a * * A 2,13 6 
+w X W * 
+a * * * 
+a X W * 
+a * * * 
+a W A * 
+w * * * 
+w W A * 
+w * * * 
+w W A * 
+w * * * 
+a A D * 
+a * * * 
+a A D * 
+a * * * 
+a A D * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a A D * 
+a * * * 
+a A D * 
+a * * * 
+w A D * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+a * * * 
+w X W * 
+w * * * 
+a D X * 
+a * * * 
+a D X * 
+w * * * 
+w D X * 
+w * * * 
+w D X * 
+w * * * 
+w D X * 
+a * * * 
+a D X * 
+a * * * 
+a X W * 
+w * * * 
+w X W * 
+w * * * 
+w X W * 
+a * * * 
+w D X * 
+w * * * 
+w D X * 
+w * * * 
+w D X * 
+w * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+w X W * 
+w * * * 
+w X W * 
+w * * * 
+d X W * 
+d * * * 
+d D X * 
+w * * * 
+w D X * 
+d * * * 
+d D X * 
+d * * * 
+d A D * 
+d * * * 
+x A D * 
+d * * * 
+d A D * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d D X * 
+d * * * 
+w D X * 
+w * * * 
+w D X * 
+w * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+x W A * 
+x * * * 
+x A D * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+d W A * 
+d * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x X W * 
+x * * * 
+w X W * 
+w * * * 
+w X W * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+w * * * 
+w W A * 
+w * * * 
+w A D * 
+w * * * 
+w A D * 
+w * * * 
+w A D * 
+w * * * 
+w X W * 
+w * * * 
+w X W * 
+w * * S 14,23 9 
+w X W S 14,23 9 
+w * * S 14,23 9 
+w X W S 14,23 9 
+w * * W 14,23 9 
+w D X W 14,23 9 
+w * * W 14,23 9 
+w D X W 14,23 9 
+w * * W 13,23 9 
+w D X W 13,23 9 
+w * * W 13,23 9 
+w A D W 13,23 9 
+w * * X 13,23 9 
+w A D X 13,23 9 
+w * * X 13,23 9 
+w A D X 13,23 9 
+w * * A 14,23 9 
+w X W A 14,23 9 
+w * * A 14,23 9 
+w X W A 14,23 9 
+a * * A 14,22 9 
+a X W A 14,22 9 
+a * * A 14,22 9 
+a D X A 14,22 9 
+a * * W 14,21 9 
+w D X W 14,21 9 
+w * * W 14,21 9 
+a D X W 14,21 9 
+a * * X 13,21 9 
+a A D X 13,21 9 
+a * * X 13,21 9 
+a A D X 13,21 9 
+a * * X 14,21 9 
+d A D X 14,21 9 
+d * * X 14,21 9 
+d X W X 14,21 9 
+d * * A 15,21 9 
+d X W A 15,21 9 
+d * * A 15,21 9 
+a X W A 15,21 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * D 15,20 9 
+a W A D 15,20 9 
+a * * D 15,20 9 
+a W A D 15,20 9 
+a * * D 15,21 9 
+a W A D 15,21 9 
+a * * D 15,21 9 
+a X W D 15,21 9 
+d * * A 15,22 9 
+d X W A 15,22 9 
+d * * A 15,22 9 
+d X W A 15,22 9 
+d * * W 15,21 9 
+d D X W 15,21 9 
+d * * W 15,21 9 
+d D X W 15,21 9 
+d * * W 14,21 9 
+d D X W 14,21 9 
+d * * W 14,21 9 
+d X W W 14,21 9 
+d * * A 13,21 9 
+d X W A 13,21 9 
+d * * A 13,21 9 
+x X W A 13,21 9 
+x * * D 13,20 9 
+x W A D 13,20 9 
+x * * D 13,20 9 
+x W A D 13,20 9 
+x * * D 13,21 9 
+x W A D 13,21 9 
+x * * D 13,21 9 
+d D X D 13,21 9 
+d * * W 13,21 9 
+d D X W 13,21 9 
+d * * W 13,21 9 
+d D X W 13,21 9 
+d * * D 13,21 9 
+d W A D 13,21 9 
+d * * D 13,21 9 
+d W A D 13,21 9 
+d * * D 13,21 9 
+x W A D 13,21 9 
+x * * D 13,21 9 
+x W A D 13,21 9 
+x * * D 13,21 9 
+d W A D 13,21 9 
+d * * D 13,21 9 
+d W A D 13,21 9 
+d * * D 13,21 9 
+d W A D 13,21 9 
+w * * D 13,21 9 
+w A D D 13,21 9 
+w * * X 13,21 9 
+w A D X 13,21 9 
+w * * X 13,21 9 
+w A D X 13,21 9 
+w * * D 14,21 9 
+w W A D 14,21 9 
+w * * D 14,21 9 
+w W A D 14,21 9 
+w * * D 14,22 9 
+w W A D 14,22 9 
+w * * D 14,22 9 
+w W A D 14,22 9 
+w * * D 14,23 9 
+w W A D 14,23 9 
+w * * D 14,23 9 
+w W A D 14,23 9 
+w * * X 14,23 9 
+w A D X 14,23 9 
+w * * X 14,23 9 
+x A D X 14,23 9 
+x * * X 15,23 9 
+x A D X 15,23 9 
+x * * X 15,23 9 
+x D X X 15,23 9 
+x * * W 15,23 9 
+x D X W 15,23 9 
+x * * W 15,23 9 
+x D X W 15,23 9 
+x * * D 14,23 9 
+x W A D 14,23 9 
+x * * D 14,23 9 
+w W A D 14,23 9 
+w * * D 14,23 9 
+w W A D 14,23 9 
+d * * D 14,23 9 
+d A D D 14,23 9 
+d * * X 14,23 9 
+d A D X 14,23 9 
+a * * X 14,23 9 
+a A D X 14,23 9 
+a * * X 15,23 9 
+a A D X 15,23 9 
+a * * X 15,23 9 
+x X W X 15,23 9 
+x * * A 15,23 9 
+x X W A 15,23 9 
+x * * A 15,23 9 
+x X W A 15,23 9 
+x * * D 15,22 9 
+x W A D 15,22 9 
+a * * D 15,22 9 
+a W A D 15,22 9 
+a * * D 15,23 9 
+a W A D 15,23 9 
+a * * D 15,23 9 
+a A D D 15,23 9 
+a * * X 15,24 9 
+d A D X 15,24 9 
+d * * X 15,24 9 
+d A D X 15,24 9 
+d * * A 15,24 9 
+d X W A 15,24 9 
+d * * A 15,24 9 
+d X W A 15,24 9 
+w * * A 15,23 9 
+w X W A 15,23 9 
+w * * A 15,23 9 
+w D X A 15,23 9 
+x * * W 15,22 9 
+x D X W 15,22 9 
+x * * W 15,22 9 
+x D X W 15,22 9 
+x * * X 14,22 9 
+x A D X 14,22 9 
+x * * X 14,22 9 
+x A D X 14,22 9 
+x * * X 15,22 9 
+x A D X 15,22 9 
+x * * X 15,22 9 
+a X W X 15,22 9 
+a * * A 15,22 9 
+a X W A 15,22 9 
+a * * A 15,22 9 
+a X W A 15,22 9 
+a * * A 15,21 9 
+w X W A 15,21 9 
+w * * A 15,21 9 
+a D X A 15,21 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * W 15,20 9 
+a D X W 15,20 9 
+a * * X 15,20 9 
+a A D X 15,20 9 
+a * * X 15,20 9 
+a A D X 15,20 9 
+a * * X 15,20 9 
+a A D X 15,20 9 
+a * * X 15,20 9 
+a X W X 15,20 9 
+a * * A 15,20 9 
+w X W A 15,20 9 
+w * * A 15,20 9 
+a X W A 15,20 9 
+a * * W 15,19 9 
+a D X W 15,19 9 
+a * * W 15,19 9 
+a D X W 15,19 9 
+x * * W 15,19 9 
+x D X W 15,19 9 
+x * * W 15,19 9 
+x W A W 15,19 9 
+x * * D 15,19 9 
+x W A D 15,19 9 
+x * * D 15,19 9 
+w W A D 15,19 9 
+w * * A 15,20 9 
+w X W A 15,20 9 
+w * * A 15,20 9 
+d X W A 15,20 9 
+d * * A 15,19 9 
+d X W A 15,19 9 
+d * * A 15,19 9 
+d D X A 15,19 9 
+d * * W 15,18 9 
+d D X W 15,18 9 
+d * * W 15,18 9 
+d D X W 15,18 9 
+d * * A 15,18 9 
+d X W A 15,18 9 
+d * * A 15,18 9 
+d X W A 15,18 9 
+d * * A 15,17 9 
+d X W A 15,17 9 
+d * * A 15,17 9 
+d X W A 15,17 9 
+d * * D 15,16 9 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+d D X * 
+d * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x W A * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x X W * 
+x * * * 
+x X W * 
+d * * * 
+d X W * 
+d * * * 
+d W A * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+a A D * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d X W * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d W A * 
+d * * * 
+d A D * 
+d * * * 
+d A D * 
+d * * * 
+x A D * 
+x * * * 
+x X W * 
+x * * * 
+x X W * 
+x * * * 
+x X W * 
+x * * * 
+x X W * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+x A D * 
+x * * * 
+a X W * 
+a * * * 
+a X W * 
+w * * * 
+a X W * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+w * * * 
+w D X * 
+w * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+a * * * 
+a X W * 
+x * * * 
+x X W * 
+x * * * 
+x X W * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+a D X * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+a * * * 
+a X W * 
+w * * * 
+w X W * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+a W A * 
+a * * * 
+a D X * 
+a * * * 
+a D X * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+x * * * 
+x D X * 
+a * * * 
+a W A * 
+a * * S 13,6 8 
+a W A S 13,6 8 
+a * * S 13,6 8 
+w W A S 13,6 8 
+w * * X 13,6 8 
+a A D X 13,6 8 
+a * * X 13,6 8 
+a A D X 13,6 8 
+a * * X 14,6 8 
+a A D X 14,6 8 
+x * * X 14,6 8 
+a X W X 14,6 8 
+a * * A 15,6 8 
+a X W A 15,6 8 
+a * * A 15,6 8 
+a X W A 15,6 8 
+a * * D 15,5 8 
+a W A D 15,5 8 
+w * * D 15,5 8 
+w W A D 15,5 8 
+w * * D 15,6 8 
+w W A D 15,6 8 
+w * * D 15,6 8 
+w A D D 15,6 8 
+w * * X 15,7 8 
+w A D X 15,7 8 
+w * * X 15,7 8 
+w A D X 15,7 8 
+w * * X 15,7 8 
+a A D X 15,7 8 
+a * * X 15,7 8 
+a A D X 15,7 8 
+a * * X 15,7 8 
+a A D X 15,7 8 
+a * * X 15,7 8 
+a A D X 15,7 8 
+a * * D 15,7 8 
+a W A D 15,7 8 
+a * * D 15,7 8 
+a W A D 15,7 8 
+a * * D 15,8 8 
+a W A D 15,8 8 
+a * * D 15,8 8 
+a A D D 15,8 8 
+a * * X 15,9 8 
+x A D X 15,9 8 
+x * * X 15,9 8 
+a A D X 15,9 8 
+a * * A 15,9 8 
+a X W A 15,9 8 
+a * * A 15,9 8 
+w X W A 15,9 8 
+w * * A 15,8 8 
+a X W A 15,8 8 
+a * * A 15,8 8 
+a W A A 15,8 8 
+a * * D 15,7 8 
+a W A D 15,7 8 
+x * * D 15,7 8 
+a W A D 15,7 8 
+a * * X 15,8 8 
+a A D X 15,8 8 
+a * * X 15,8 8 
+a A D X 15,8 8 
+a * * X 15,8 8 
+a A D X 15,8 8 
+a * * X 15,8 8 
+a A D X 15,8 8 
+a * * A 15,8 8 
+w X W A 15,8 8 
+w * * A 15,8 8 
+w X W A 15,8 8 
+w * * A 15,7 8 
+w X W A 15,7 8 
+w * * A 15,7 8 
+w D X A 15,7 8 
+a * * W 15,6 8 
+a D X W 15,6 8 
+a * * W 15,6 8 
+a D X W 15,6 8 
+a * * X 14,6 8 
